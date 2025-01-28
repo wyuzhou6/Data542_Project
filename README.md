@@ -18,5 +18,4 @@ This project processes and analyzes conversation data for a Data542 course proje
 - **Total RQs analyzed**: 5 (exceeding the required 3).
 - **Final report selection**: The project report (`Data542_Project_Group8`) will showcase **three** RQs.
 
-## Repository Structure
-. ├── Huan He for q3q5/ # Contains analysis for RQ3 and RQ5 ├── Yuzhou Wang for q1q2/ # Contains analysis for RQ1 and RQ2 ├── Project_mergefile.ipynb # Data merging script ├── merged_conversations.csv # Final merged dataset ├── README.md # Project documentation
+
