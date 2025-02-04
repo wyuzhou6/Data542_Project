@@ -15,6 +15,7 @@ This project processes and analyzes conversation data for a Data542 course proje
 ## Research Questions (RQs)
 - **`Yuzhou Wang for q1q2/`**: Contains analysis for RQ1 and RQ2.
 - **`Huan He for q3`**: Contains analysis for RQ3.
+- **`Jingran Zhao for q6`**: Contains analysis for RQ6.
 - **Total RQs analyzed**: 4 (exceeding the required 3).
 - **Final Code selection**: The project report (`Data542_Project_Group8`) will showcase **three** RQs.
 
